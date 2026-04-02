@@ -54,6 +54,7 @@ My experience includes:
 
 ### Survey Topic Modeling
 NLP pipeline for player surveys, including embeddings, clustering, labeling, and trend tracking.
+![](https://github.com/r4msi/r4msi/blob/main/topic_modeling_embeddings.gif)
 
 ### Sentiment Modeling
 Built and deployed sentiment classification workflows for player reviews across multiple titles.
